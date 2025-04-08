@@ -368,7 +368,7 @@ A consolidação dessas sugestões poderá transformar a empresa em uma **organi
 ---
 <h4>Contato</h4>
 
-Se você tiver dúvidas, sugestões ou deseja colaborar com este projeto, sinta-se à vontade para entrar em contato:
+Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
 
 - 📧 **E-mail**: user.franklinalves@gmail.com
 - 🌐 **LinkedIn**: [Franklin Alves de Lima](https://www.linkedin.com/in/franklinalvesdelima/)

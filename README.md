@@ -371,3 +371,14 @@ A análise dos dados históricos permitiu identificar **padrões de crescimento*
   Desenvolver uma visão mensal do **faturamento bruto e líquido**, **custos** e **margem por produto**, permitindo comparações com o planejado e decisões financeiras mais assertivas.
 
 A consolidação dessas sugestões poderá transformar a empresa em uma **organização ainda mais orientada por dados**, promovendo **ganhos de eficiência**, **foco em resultados** e **tomada de decisão ágil e fundamentada**.
+
+---
+## 📬 Contato
+
+Se você tiver dúvidas, sugestões ou desejar colaborar com este projeto, sinta-se à vontade para entrar em contato:
+
+- 📧 **E-mail:** [user.franklinalves@gmail.com](mailto:user.franklinalves@gmail.com)  
+- 🌐 **LinkedIn:** [Franklin Alves de Lima](https://www.linkedin.com/in/franklin-alves-de-lima)
+
+Ficarei feliz em conversar e receber feedback sobre o projeto!
+

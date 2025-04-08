@@ -373,12 +373,13 @@ A análise dos dados históricos permitiu identificar **padrões de crescimento*
 A consolidação dessas sugestões poderá transformar a empresa em uma **organização ainda mais orientada por dados**, promovendo **ganhos de eficiência**, **foco em resultados** e **tomada de decisão ágil e fundamentada**.
 
 ---
-## 📬 Contato
+<h4>Contato</h4>
 
-Se você tiver dúvidas, sugestões ou desejar colaborar com este projeto, sinta-se à vontade para entrar em contato:
+Se você tiver dúvidas, sugestões ou deseja colaborar com este projeto, sinta-se à vontade para entrar em contato:
 
-- 📧 **E-mail:** [user.franklinalves@gmail.com](mailto:user.franklinalves@gmail.com)  
-- 🌐 **LinkedIn:** [Franklin Alves de Lima](https://www.linkedin.com/in/franklin-alves-de-lima)
+- 📧 **E-mail**: user.franklinalves@gmail.com
+- 🌐 **LinkedIn**: [Franklin Alves de Lima](https://www.linkedin.com/in/franklinalvesdelima/)
+
 
 Ficarei feliz em conversar e receber feedback sobre o projeto!
 

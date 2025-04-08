@@ -1,4 +1,7 @@
-## 📊 PROJETO DE BI: ANÁLISE DE VENDAS COM POWER BI
+## 📊 PROJETO DE BI: ANÁLISE DE VENDAS COM POWER BI 
+<a href="https://app.powerbi.com/groups/me/reports/eba2361e-9bc8-48ce-92e6-831a1614f9f3?ctid=2c5dfc41-d125-401f-8d83-663e37748707&pbi_source=linkShare" target="_blank">
+  <img src="https://img.shields.io/badge/Power_BI-View_Dashboard-yellow?style=for-the-badge&logo=powerbi" alt="Acesse o Dashboard">
+</a>
 
 <h3>1. 📄 <u>VISÃO GERAL</u></h3> 
 Este projeto de Business Intelligence (BI), desenvolvido com o Power BI, tem como foco a análise estratégica de vendas em um cenário empresarial genérico, porém amplamente aplicável a diferentes segmentos de mercado.
@@ -242,6 +245,9 @@ O dashboard final entrega uma análise visual completa e interativa dos dados de
 <p align="center">
   <img src="imagens/dashboard.png" alt="Dashboard" width=1000">
 </p>
+<a href="https://app.powerbi.com/groups/me/reports/eba2361e-9bc8-48ce-92e6-831a1614f9f3?ctid=2c5dfc41-d125-401f-8d83-663e37748707&pbi_source=linkShare" target="_blank">
+  <img src="https://img.shields.io/badge/Power_BI-View_Dashboard-yellow?style=for-the-badge&logo=powerbi" alt="Acesse o Dashboard">
+</a>
 
 #### Componentes do Dashboard
 
@@ -366,6 +372,13 @@ A análise dos dados históricos permitiu identificar **padrões de crescimento*
 A consolidação dessas sugestões poderá transformar a empresa em uma **organização ainda mais orientada por dados**, promovendo **ganhos de eficiência**, **foco em resultados** e **tomada de decisão ágil e fundamentada**.
 
 ---
+
+#### 🔗 Link do Projeto
+
+<a href="https://app.powerbi.com/groups/me/reports/eba2361e-9bc8-48ce-92e6-831a1614f9f3?ctid=2c5dfc41-d125-401f-8d83-663e37748707&pbi_source=linkShare" target="_blank">
+  <img src="https://img.shields.io/badge/Power_BI-View_Dashboard-yellow?style=for-the-badge&logo=powerbi" alt="Acesse o Dashboard">
+</a>
+
 <h4>Contato</h4>
 
 Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato:

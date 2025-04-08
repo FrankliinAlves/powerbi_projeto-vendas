@@ -1,5 +1,7 @@
 ## 📊 PROJETO DE BI: ANÁLISE DE VENDAS COM POWER BI       
-[![Acesse no Power BI](https://img.shields.io/badge/Power_BI-View_Dashboard-FFB000?style=for-the-badge&logo=powerbi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiMTNjYzliZTktYjRlNi00MmJkLTlhMGUtNTg0Yzk2YmFiMzViIiwidCI6IjJjNWRmYzQxLWQxMjUtNDAxZi04ZDgzLTY2M2UzNzc0ODcwNyJ9)
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMTNjYzliZTktYjRlNi00MmJkLTlhMGUtNTg0Yzk2YmFiMzViIiwidCI6IjJjNWRmYzQxLWQxMjUtNDAxZi04ZDgzLTY2M2UzNzc0ODcwNyJ9" target="_blank">
+  <img src="https://img.shields.io/badge/Power_BI-View_Dashboard-FFB000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Acesse no Power BI">
+</a>
 
 
 <h3>1. 📄 <u>VISÃO GERAL</u></h3> 
@@ -245,7 +247,9 @@ O dashboard final entrega uma análise visual completa e interativa dos dados de
   <img src="imagens/dashboard.png" alt="Dashboard" width=1000">
 </p>
 
-[![Acesse no Power BI](https://img.shields.io/badge/Power_BI-View_Dashboard-FFB000?style=for-the-badge&logo=powerbi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiMTNjYzliZTktYjRlNi00MmJkLTlhMGUtNTg0Yzk2YmFiMzViIiwidCI6IjJjNWRmYzQxLWQxMjUtNDAxZi04ZDgzLTY2M2UzNzc0ODcwNyJ9)
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMTNjYzliZTktYjRlNi00MmJkLTlhMGUtNTg0Yzk2YmFiMzViIiwidCI6IjJjNWRmYzQxLWQxMjUtNDAxZi04ZDgzLTY2M2UzNzc0ODcwNyJ9" target="_blank">
+  <img src="https://img.shields.io/badge/Power_BI-View_Dashboard-FFB000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Acesse no Power BI">
+</a>
 
 #### Componentes do Dashboard
 
@@ -373,7 +377,9 @@ A consolidação dessas sugestões poderá transformar a empresa em uma **organi
 
 #### 🔗 Link do Projeto
 
-[![Acesse no Power BI](https://img.shields.io/badge/Power_BI-View_Dashboard-FFB000?style=for-the-badge&logo=powerbi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiMTNjYzliZTktYjRlNi00MmJkLTlhMGUtNTg0Yzk2YmFiMzViIiwidCI6IjJjNWRmYzQxLWQxMjUtNDAxZi04ZDgzLTY2M2UzNzc0ODcwNyJ9)
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMTNjYzliZTktYjRlNi00MmJkLTlhMGUtNTg0Yzk2YmFiMzViIiwidCI6IjJjNWRmYzQxLWQxMjUtNDAxZi04ZDgzLTY2M2UzNzc0ODcwNyJ9" target="_blank">
+  <img src="https://img.shields.io/badge/Power_BI-View_Dashboard-FFB000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Acesse no Power BI">
+</a>
 
 <h4>Contato</h4>
 

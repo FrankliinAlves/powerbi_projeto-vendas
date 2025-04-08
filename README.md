@@ -1,6 +1,6 @@
 ## 📊 PROJETO DE BI: ANÁLISE DE VENDAS COM POWER BI       
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMTNjYzliZTktYjRlNi00MmJkLTlhMGUtNTg0Yzk2YmFiMzViIiwidCI6IjJjNWRmYzQxLWQxMjUtNDAxZi04ZDgzLTY2M2UzNzc0ODcwNyJ9" target="_blank">
-  <img src="https://img.shields.io/badge/Power_BI-View_Dashboard-FFB000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Acesse no Power BI">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMTNjYzliZTktYjRlNi00MmJkLTlhMGUtNTg0Yzk2YmFiMzViIiwidCI6IjJjNWRmYzQxLWQxMjUtNDAxZi04ZDgzLTY2M2UzNzc0ODcwNyJ9" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Power_BI-View_Dashboard-FFB000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Acesse Dashboard Power BI">
 </a>
 
 
